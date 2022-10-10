@@ -1,0 +1,20 @@
+.about-main{
+    width: 100%;
+    background-color: black;
+    
+    color: white;
+}
+.float-child{
+    text-align: center;
+}
+.contact{
+    display: grid;
+    display: flex;
+    justify-content: space-around;
+}
+
+.details
+{
+    padding-left: 2rem;
+    text-align: left;
+}
