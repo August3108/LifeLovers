@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import { Link } from 'react-router-dom';
 import "./navbar.css";
 import {FaFacebookSquare,FaInstagramSquare,FaYoutubeSquare}from "react-icons/fa";
-import { GiHamburgerMenu } from "react-icons/gi";
+import { GiHamburgerMenu ,GiHumanPyramid } from "react-icons/gi";
+import { MdKeyboardArrowDown } from "react-icons/md";
 import { navItems } from "./NavItems";
 import Dropdown from "./Dropdown";
 import "./dropdown.css"
@@ -14,7 +15,7 @@ const Navbar = () => {
       <nav className="main-nav">
         {/* 1st logo part  */}
         <Link to="/"className="logo">
-          <h2>
+          <h2><GiHumanPyramid/>
             <span>L</span>ife
             <span>L</span>overs
           </h2>
@@ -34,7 +35,7 @@ const Navbar = () => {
                      onClick={() => setDropdown(!dropdown)}
                      onMouseLeave={() => setDropdown(false)}
                      >
-                    <Link to={item.path}>{item.title}</Link>
+                    <Link to={item.path}>{item.title}<MdKeyboardArrowDown/></Link>
                     {dropdown && <Dropdown />}
                   </li>
                 );

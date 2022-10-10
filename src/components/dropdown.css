@@ -9,6 +9,8 @@
     top: 67px;
     list-style: none;
     text-align: start;
+    display: block;
+    
   }
   
   .services-submenu li {

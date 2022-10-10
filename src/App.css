@@ -7,15 +7,29 @@
 }
 .hundred{
  height: 75vh;
-
- background-color: white;
  margin-top: 10%;
+ overflow-x: hidden;
+
+ text-align:justify;
+ font-size: medium;
+ scrollbar-width: 0px;
+ width:103%;
+
+}
+.hundredpage{
+ height: 100%;
+ margin-top: 2%;
  margin-bottom: 2%;
  margin-left: 7%;
  margin-right: 7%;
- padding:4px;
- top:10px;
+ scrollbar-width: 0px;
+ width:100%;
+ padding-right: 15%;
+
+ top:15px;
  overflow-x: hidden;
- overflow-y: auto;
+
  text-align:justify;
+
+
 }

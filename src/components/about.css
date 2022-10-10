@@ -1,20 +1,47 @@
 .about-main{
     width: 100%;
-    background-color: black;
-    
+    font-size: medium;
     color: white;
+    text-align: center;
+    margin-top: 10%;
+    padding:4px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+    font-size: medium;
+    bottom: 0;
+
 }
+.float-container{
+    background-color: black;
+
+}
+
 .float-child{
     text-align: center;
+    
 }
 .contact{
     display: grid;
     display: flex;
     justify-content: space-around;
+    
 }
 
 .details
 {
     padding-left: 2rem;
     text-align: left;
+}
+.button1{
+    background-color: white;
+    display: grid;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.button1:hover{
+    scale: 105%;
 }
