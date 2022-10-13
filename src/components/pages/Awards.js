@@ -5,17 +5,8 @@ const Awards =() =>{
     return (
         <>
         
-        <h1> this is Awardsffdgdfgfdgdfgdfgssdfg</h1>
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        ldfjgkjhjkh jkasdfhjksdhfgkj sdffhgkjdhfg jdshg dsdjfgjkdf dhfgjkhdjk ghdjkfhgdfjgh dhg jfhkjk jkdhgkjdf gdjhfgfjkdhfg jdfhgjkdf gjkdhgjk jkdfhgjk dfhgjkgjkhjkdfgh jkdf h
-        
+        <h1> This is Awards </h1>
+
         </>
         
     );
