@@ -1,7 +1,6 @@
 import "./about.css"
 import{FaFacebookSquare,FaInstagramSquare,FaYoutubeSquare} from "react-icons/fa"
 import { Link } from "react-router-dom";
-import { ImHome3 } from "react-icons/im"
 const About= ()=> {
 return (
 <>
@@ -9,7 +8,7 @@ return (
 <div className="about-main">
 <Link to="/">.
             <img className="button1" src="https://cdn.discordapp.com/attachments/967279927932108900/1028898156412411934/imgonline-com-ua-resize-jJNbZpVun1l.jpg">
-                </img>.
+                </img>
         </Link>
         <br/>
     <div class="float-container">

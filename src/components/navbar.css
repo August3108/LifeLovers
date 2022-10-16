@@ -42,18 +42,14 @@ li {
   grid-column: 2/3;
   justify-content: start;
   align-items: center;
-
-
-  
-
 }
 
 .menu-link {
   grid-column: 3/4;
 }
-
-.menu-link ul {
-  height: 10rem;
+/* this needs correction */
+.nav-items {
+  height: 8rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -64,7 +60,7 @@ li {
 }
 
 .social-media ul {
-  height: 10rem;
+  height: 8rem;
   display: grid;
   grid-template-columns: 3fr repeat(3, 1fr);
   align-items: center;
@@ -130,27 +126,6 @@ li {
 
 .youtube {
   color: #ff0000;
-}
-
-/* hero section   */
-
-.hero-section {
-  height: 80vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.hero-section p {
-  font-size: 3rem;
-  text-transform: capitalize;
-}
-
-.hero-section h1 {
-  font-size: 5rem;
-  text-transform: uppercase;
-  text-align: center;
 }
 
 /* responsive css style  */
