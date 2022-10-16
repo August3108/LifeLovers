@@ -19,7 +19,7 @@ const App =() => {
   <Router>
 
 
-        <Navbar />
+      <Navbar />
       <div className="hundred">
       <div className="hundredpage">
       <Routes>

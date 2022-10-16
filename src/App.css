@@ -6,10 +6,9 @@
   height: 3vh;
 }
 .hundred{
- height: 75vh;
- margin-top: 10%;
+ height: 90vh;
+ margin-top: 7%;
  overflow-x: hidden;
-
  text-align:justify;
  font-size: medium;
  scrollbar-width: 0px;
@@ -18,18 +17,12 @@
 }
 .hundredpage{
  height: 100%;
- margin-top: 2%;
- margin-bottom: 2%;
  margin-left: 7%;
  margin-right: 7%;
  scrollbar-width: 0px;
  width:100%;
  padding-right: 15%;
-
  top:15px;
  overflow-x: hidden;
-
  text-align:justify;
-
-
 }

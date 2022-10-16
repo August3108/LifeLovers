@@ -1,17 +1,19 @@
 .services-submenu {
     width: 15rem;
     position: absolute;
-    top: 6rem;
+    top: 5rem;
     list-style: none;
     text-align: start;
     display: block;
-    
   }
   
   .services-submenu li {
     background: whitesmoke;
     cursor: pointer;
     display: block;
+    border-bottom: solid;
+    background-color: black;
+
   }
 
   .services-submenu.clicked {
