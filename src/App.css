@@ -12,17 +12,16 @@
  text-align:justify;
  font-size: medium;
  scrollbar-width: 0px;
- width:103%;
+ width:100%;
 
 }
 .hundredpage{
  height: 100%;
- margin-left: 7%;
+
  margin-right: 7%;
  scrollbar-width: 0px;
  width:100%;
  padding-right: 15%;
- top:15px;
  overflow-x: hidden;
  text-align:justify;
 }

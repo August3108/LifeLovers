@@ -1,33 +1,52 @@
-import { redirect } from "react-router-dom";
-
+import React , {useState} from 'react'
+import "./slider.css";
+import { imgitems } from "./dataSlider";
 const Home =()=>{
 return (
 <>
-<br/><br/><br/>
-<div style ={{
-    color: "#292b2c"
-    
-}}>
+<img src='/images/home2.jpg'></img>
+{/*
+<div claassName="slider"> 
+    <div className="slides">
+    <input type="radio" name="radio-btn" id="r1"></input>
+    <input type="radio" name="radio-btn" id="r2"></input>
+    <input type="radio" name="radio-btn" id="r3"></input>
+    <input type="radio" name="radio-btn" id="r4"></input>
+        <div className="slidefirst">
+            <img src="/images/home2.jpg"></img>
+        </div>
+        <div className="slide">
+            <img src="/images/home3.jpg"></img>
+        </div>
+        <div className="slide">
+            <img src="/images/home4.jpg"></img>
+        </div>
+        <div className="slide">
+            <img src="/images/home5.jpg"></img>
+        </div>
 
-    <div>
-        {/*this is image compnent which will cover 80% */}
-        <img
-          src="images/Home1.jpg"
-          alt="Tammy Stevens"
-          style={{
-            width:"120rem",
-            height:"60rem",
-            objectFit: "cover",
-            marginBottom: "0"
-          }}
-        />
+        <div className="navigationauto">
+            <div className="auto-b1"></div>
+            <div className="auto-b2"></div>
+            <div className="auto-b3"></div>
+            <div className="auto-b4"></div>
+
+        </div>
+
+        <div className="navigatemanual">
+            <label htmlFor="r1" classsName="manual.btn"></label>
+            <label htmlFor="r2" classsName="manual.btn"></label>
+            <label htmlFor="r3" classsName="manual.btn"></label>
+            <label htmlFor="r4" classsName="manual.btn"></label>
+        </div>
 
 
     </div>
-         {/*this is text compnent which will cover 80% */}  
 
-    <h1> The sky is limit </h1>
 </div>
+*/}
+<div
+></div>
 
 
 </>);
