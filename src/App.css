@@ -25,3 +25,10 @@
  overflow-x: hidden;
  text-align:justify;
 }
+
+@media (max-width: 998px)
+{
+  .hundred{
+    margin-top: 10%;
+  }
+}

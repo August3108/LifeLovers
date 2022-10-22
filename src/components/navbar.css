@@ -32,7 +32,7 @@ li {
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   background-color: black;
-  color: white; 
+  color: blue; 
 }
 
 .logo {
@@ -165,7 +165,7 @@ li {
   }
 
   .mobile-menu-link {
-    background-color: white;
+    background-color: black;
     height: 20rem;
     display: grid;
     grid-column: 2/5;
@@ -181,7 +181,7 @@ li {
     justify-content: space-around;
     flex-direction: column;
     align-items: start;
-  }
+    }
 
   .mobile-menu-link ul li:first-child {
     transition-delay: 0.2s;
@@ -222,6 +222,7 @@ li {
   .logo,
   .social-media ul {
     height: 6rem;
+    
   }
 
   .social-media {
@@ -246,6 +247,7 @@ li {
   .logo,
   .social-media ul {
     height: 6rem;
+    
   }
 
   .logo h2 {

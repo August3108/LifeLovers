@@ -25,8 +25,7 @@ export const highItems= [
 export const navItems = [
     {
       id: 1,
-      title: "Home",
-      path: "./",
+      title: "Highlight",
       cName: "nav-item",
     },
     {
@@ -35,13 +34,9 @@ export const navItems = [
       path: "/Latest",
       cName: "nav-item",
     },
+
     {
       id: 3,
-      title: "Highlight",
-      cName: "nav-item",
-    },
-    {
-      id: 4,
       title: "Contact Us",
       path: "/Contactus",
       cName: "nav-item",
