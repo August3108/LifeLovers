@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LiveLovers.github.io/static/css/main.0f0c9067.css",
-    "main.js": "/LiveLovers.github.io/static/js/main.6eaaca3d.js",
-    "static/js/787.0c683632.chunk.js": "/LiveLovers.github.io/static/js/787.0c683632.chunk.js",
-    "index.html": "/LiveLovers.github.io/index.html",
-    "main.0f0c9067.css.map": "/LiveLovers.github.io/static/css/main.0f0c9067.css.map",
-    "main.6eaaca3d.js.map": "/LiveLovers.github.io/static/js/main.6eaaca3d.js.map",
-    "787.0c683632.chunk.js.map": "/LiveLovers.github.io/static/js/787.0c683632.chunk.js.map"
+    "main.css": "/LiveLovers/static/css/main.0f0c9067.css",
+    "main.js": "/LiveLovers/static/js/main.e25d71c3.js",
+    "static/js/787.0c683632.chunk.js": "/LiveLovers/static/js/787.0c683632.chunk.js",
+    "index.html": "/LiveLovers/index.html",
+    "main.0f0c9067.css.map": "/LiveLovers/static/css/main.0f0c9067.css.map",
+    "main.e25d71c3.js.map": "/LiveLovers/static/js/main.e25d71c3.js.map",
+    "787.0c683632.chunk.js.map": "/LiveLovers/static/js/787.0c683632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f0c9067.css",
-    "static/js/main.6eaaca3d.js"
+    "static/js/main.e25d71c3.js"
   ]
 }
