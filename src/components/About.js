@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 const About= ()=> {
 return (
 <>
-
 <div className="about-main">
 <Link to="/">.
             <img className="button1" src="https://cdn.discordapp.com/attachments/967279927932108900/1028898156412411934/imgonline-com-ua-resize-jJNbZpVun1l.jpg">

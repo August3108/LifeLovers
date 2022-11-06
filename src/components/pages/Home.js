@@ -4,7 +4,7 @@ import { imgitems } from "./dataSlider";
 const Home =()=>{
 return (
 <>
-<img src='/images/home2.jpg'></img>
+<img src='https://cdn.discordapp.com/attachments/1037621991630458931/1037622380534714409/home2.jpg'></img>
 {/*
 <div claassName="slider"> 
     <div className="slides">
