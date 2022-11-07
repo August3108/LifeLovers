@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LiveLovers/static/css/main.0f0c9067.css",
-    "main.js": "/LiveLovers/static/js/main.e25d71c3.js",
-    "static/js/787.0c683632.chunk.js": "/LiveLovers/static/js/787.0c683632.chunk.js",
-    "index.html": "/LiveLovers/index.html",
-    "main.0f0c9067.css.map": "/LiveLovers/static/css/main.0f0c9067.css.map",
-    "main.e25d71c3.js.map": "/LiveLovers/static/js/main.e25d71c3.js.map",
-    "787.0c683632.chunk.js.map": "/LiveLovers/static/js/787.0c683632.chunk.js.map"
+    "main.css": "/LifeLovers/static/css/main.0f0c9067.css",
+    "main.js": "/LifeLovers/static/js/main.a5ee77fc.js",
+    "static/js/787.0c683632.chunk.js": "/LifeLovers/static/js/787.0c683632.chunk.js",
+    "index.html": "/LifeLovers/index.html",
+    "main.0f0c9067.css.map": "/LifeLovers/static/css/main.0f0c9067.css.map",
+    "main.a5ee77fc.js.map": "/LifeLovers/static/js/main.a5ee77fc.js.map",
+    "787.0c683632.chunk.js.map": "/LifeLovers/static/js/787.0c683632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f0c9067.css",
-    "static/js/main.e25d71c3.js"
+    "static/js/main.a5ee77fc.js"
   ]
 }
