@@ -6,11 +6,15 @@ import React,{Component } from 'react'
         const map2 = shData.map(item => item.schArea)
         const map3 = shData.map(item => item.schContent)
         
+        
         return(
             <>
-            <h2 className='scheme-heading'>{map1}</h2><br/>
-            <h2 className='scheme-heading'>{map2}</h2><br/>
-            <p>{map3}</p>
+            {shData.data.map((e, count) => {
+                <h1> {e.schTitle}</h1>
+            }
+            )};
+
+            
             
             </>
         )
