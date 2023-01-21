@@ -6,22 +6,15 @@
   box-sizing: border-box;
   font-family: "Jost", sans-serif;
 }
-
- 
 html {
   font-size: 62.5%;
 }
-
-a {
+a{
   text-decoration: none;
 }
-
-li {
+li{
   list-style: none;
 }
-
-/* 
- 
 /* navbar style start  */
 
 .main-nav {

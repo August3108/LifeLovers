@@ -1,4 +1,5 @@
 import "./about.css"
+
 import{FaFacebookSquare,FaInstagramSquare,FaYoutubeSquare} from "react-icons/fa"
 import { Link } from "react-router-dom";
 const About= ()=> {
