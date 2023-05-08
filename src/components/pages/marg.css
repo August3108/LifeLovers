@@ -4,3 +4,51 @@
     margin-right: 3%;
     
 }
+.thirty{
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-right: 15%;
+    
+}
+
+.middleMan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+    text-align: center;
+    
+}
+
+
+.chaoticImages{
+
+    width: 60rem;
+    height:40rem;
+    margin-top: 3%;
+    text-align: center;
+}
+.button {
+    background-color: #4c8eaf; /* Green */
+    border-color:white ;
+    width: 30.4rem;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+
+  .homeImages{
+    display: inline-block;
+    width: auto;
+    height:60rem;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+
+}
