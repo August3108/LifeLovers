@@ -1,10 +1,10 @@
 export const highItems= [
-/*    {
+    {
       id: 1,
-      title: "Awards",
+      title: "Search",
       path: "/Awards",
       cName: "submenu-item",
-    },*/
+    },
     {
       id: 2,
       title: "Schemes",

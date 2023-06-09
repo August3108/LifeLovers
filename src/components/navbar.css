@@ -91,13 +91,13 @@ li{
   text-transform: capitalize;
   color: white;
   transition: 0.5s;
+  padding-top: -1%;
 }
 .menu-link ul li:hover > a {
   transform-origin: left;
   color: orangered;
   text-shadow: black;
   transition: 0s;
-  scale: 105%;
 }
 
 .social-media ul li {

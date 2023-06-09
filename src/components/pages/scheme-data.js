@@ -24,13 +24,13 @@ const shData=
       {
         id: 21,
         schTitle: "Assistance for purchase of aids and appliances",
-        schArea: "Anurachal Pradesh ",
+        schArea: "Anurachal Pradesh",
         schContent: "Free aids and appliances are given to those handicapped persons whose parent’s annual income is not more than Rs. 14,400/-. 50% concession is given to those disabled person whose parent’s annual income is between Rs.14,000/- to Rs. 30,000/-",
       },
       {
         id: 22,
         schTitle: " Reimbursement of tuition fee to Pre-Matric and Post Matric students :",
-        schArea: "Arunachal Pradesh ",
+        schArea: "Arunachal Pradesh",
         schContent: "Under the scheme, an amount of Rs. 25/- p.m. is paid to the handicapped students who are studying in the private school recognised by the Govt. and post metric students (IXth and above) are reimbursed tuition fees @ Rs. 500/-p.a whose parents/guardian’s annual income does not exceed Rs. 12,000/-p.a.",
       },
 /*Assam */

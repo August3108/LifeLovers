@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import About from "./components/About"
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Achievement from "./components/pages/Achievement";
-import Awards from "./components/pages/Awards";
+import SearchBox from "./components/pages/Awards";
 import Contactus from "./components/pages/Contactus";
 import SchemeCat from "./components/pages/schemecat";
 import Home from "./components/pages/Home";
@@ -24,7 +24,7 @@ const App =() => {
       <div className="hundredpage">
       <Routes>
           
-          <Route path="/Awards" element={<Awards/>} />
+          <Route path="/Awards" element={<SearchBox/>} />
           <Route path="/Contactus" element={<Contactus/>} />
           <Route path="/Achievement" element={<Achievement/>} />
           <Route path="/Schemecat" element={<SchemeCat/>} />

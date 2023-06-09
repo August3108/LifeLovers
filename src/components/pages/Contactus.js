@@ -1,6 +1,7 @@
 import React from "react";
 import "./marg.css";
 import {FaFacebookSquare,FaInstagramSquare,FaYoutubeSquare}from "react-icons/fa";
+
 const Contactus =() =>{
     return (
         <>
@@ -16,6 +17,7 @@ FB page        :        <a href="https://www.facebook.com"> <FaFacebookSquare cl
 instagram    :          <a href="https://www.instagram.com"><FaInstagramSquare className="instagram" /></a><br/>
 youtube       :         <a href="https://www.youtube.com"><FaYoutubeSquare className="youtube" /></a> <br/>
 </h3>
+
 </div>
         </>
         
